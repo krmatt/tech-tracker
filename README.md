@@ -12,12 +12,13 @@
     * [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/)
 
 ### Instructions
-* Backend
+1. Download this repository
+2. Backend
     * Open command line
     * Navigate to tech-tracker and run `python location_api.py`
     * Test by opening http://localhost:5000/0 in your browser, or whichever local IP address is specified in the command line window
     * You should see the first set of location data
-* Frontend
+3. Frontend
     * Open a second instance of command line
     * Navigate to tech-tracker and run `npm start`
     * Open http://localhost:3000/ in your browser, or whichever local IP address is specified in the command line window
